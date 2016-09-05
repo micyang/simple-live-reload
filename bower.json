@@ -1,0 +1,22 @@
+{
+  "name": "simple live-reload",
+  "authors": [
+    "Kan Adachi <Kadachi1023@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "underscore": "^1.8.3",
+    "bootstrap": "^3.3.7"
+  }
+}
